@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://jfberrutti.github.io/sitemap.xml
