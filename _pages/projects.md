@@ -16,18 +16,19 @@ horizontal: false
 <div class="post-content research-project">
   <details>
 	<summary>
-<strong>Market Structure, Innovation and Prices: The Case of Agricultural Biotechnology in US Cotton</strong> </summary> <br> 
+  <strong>Market Structure, Innovation and Prices: The Case of Agricultural Biotechnology in US Cotton</strong> </summary> <br> 
 
     <p style="margin-left: 25px;">
     I study the impact of vertical integration in the market for genetically engineered (GE) cotton seeds in the United States. Exploiting Monsanto's acquisition of the leading cotton seed producing firm (Delta and Pine Land) in 2006, I show that (i) the vertical merger raised the prices that Monsanto charged its rival cotton seed breeders to license its GE technology and (ii) yields increased for products sold by the vertically integrated company relative to those sold by non-integrated firms. To quantify the welfare impacts of these two opposing forces, I develop a structural model of demand and supply for cotton seeds. My model accounts for bargaining between an upstream technology provider and downstream cotton breeders as well as quality improvements. I use this model to study the welfare impact of vertical integration and to estimate counterfactual outcomes without integration and without DOJ mandated divestitures. 
     </p>
     </details>
+    
 </div>
 
  <br> 
 
 <div class="post-content research-project">
-    <details>
+  <details>
 	<summary>
   <strong>Price Regulation of Agricultural Technology</strong> (joint with Matteo Ruzzante)  <br> </summary>
 
