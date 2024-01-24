@@ -427,6 +427,7 @@ blockquote {
     background-color: var(--global-card-bg-color);
     border: 0px solid var(--global-divider-color);
     margin: 0;
+    box-shadow: none;
 
     .list-group-item {
       background-color: inherit;
@@ -435,6 +436,8 @@ blockquote {
       .badge {
         color: var(--global-text-color) !important;
         background-color: var(--global-card-bg-color) !important;
+        box-shadow: none;
+
       }
     }
   }
