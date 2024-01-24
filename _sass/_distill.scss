@@ -73,16 +73,17 @@ d-article {
       cursor: pointer;
       user-select: none;
       list-style: none;
-      -webkit-details-marker: none;
+      -webkit-details-marker: {
+        display: none
+      }
     }
 
     details summary::before {
       content: "+";
       color: var(--global-theme-color);
-      /* You can add more styling here as needed */
     }
   
-    details[open] summary::before {
+    details[open] summary::after {
       content: "-";
       color: var(--global-theme-color);
     }
