@@ -38,3 +38,39 @@ horizontal: false
     </details>
 
 </div>
+
+<br>
+
+<h2>other writings</h2>
+
+ <br> 
+
+<div class="post-content research-project">
+  <details>
+	<summary>
+  <strong>Effects of public funding on firm innovation: transforming or reinforcing a weak innovation pattern?</strong>
+  <p>with <a href="http://www.iecon.ccee.edu.uy/bianchi-carlos/author/54/en/">Carlos Bianchi</a></p>
+  <p style='margin-bottom: 0em; margin-top: -1em;'> <em>Economics of Innovation and New Technology</em>, 29(5), 2019 <a href="https://www.tandfonline.com/doi/abs/10.1080/10438599.2019.1636452">[Full text]</a></p></summary> <br> 
+
+    <p style="margin-left: 25px;">
+    This paper adds to the ongoing debate on the effects of public funding programmes on business innovation. This policy instrument, based upon a simple but a robust rationale, has been applied in an almost homogeneous manner in different contexts, but evidence from such experiences shows heterogeneous effects. The main contribution of this paper is that it shows the limitations faced by public funding instruments in affecting a traditionally low innovative pattern. Using panel data techniques, we find heterogeneous effects of public funding on the innovation behaviour of Uruguayan firms between 2001 and 2015. Our results show that, after a strong public policy effort, the critical mass of innovative firms has hardly changed. Input additionality effects of public funding in private innovation investment are found, but only for innovation activities based on the acquisition of embodied knowledge. Moreover, we obtain some evidence of behavioural additionality in process and organizational innovation leading to higher productivity levels, but we find no effects on interaction for innovation.
+    </p>
+    </details>
+    
+</div>
+
+<br>
+
+<div class="post-content research-project">
+  <details>
+	<summary>
+  <strong>Place-based Subsidies and Location Decisions: The Case of Uruguay</strong>
+  <p><em>Undergraduate thesis</em> <a href="https://www.proquest.com/scholarly-journals/place-based-subsidies-location-decisions-case/docview/1930794087/se-2">[Full text]</a></p> </summary> <br> 
+
+    <p style="margin-left: 25px;">
+    This paper combines a spatial discontinuity design with differences-in-differences to evaluate the effects of a program which grants place-based subsidies to residential construction on the location of housing developments in Montevideo, the Uruguayan capital, using administrative municipal data over the period 2007-2015. The results reveal that the policy has a sizeable and statistically significant impact on the location of residential construction. Also, findings indicate that the policy increases the average size of residential projects. The policy's impact on the densification of the city, however, is heterogeneous. Finally, the evidence on spillovers on non-subsidized zones is mixed.
+
+    </p>
+    </details>
+    
+</div>
