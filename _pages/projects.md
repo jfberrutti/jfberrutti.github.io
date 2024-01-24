@@ -12,10 +12,20 @@ horizontal: false
 <h2>work in progress</h2>
 
 <div class="post-content research-project">
-  <strong>Price Regulation of Agricultural Technology</strong>
+  <strong>Market Structure, Innovation and Prices: The Case of Agricultural Biotechnology in US Cotton</strong> 
 
-  <div class="collapse">
-    <a href="#" onclick="collapsible(event)">+ More</a>
-    <p hidden="True">I examine the relationship between customer income and firm markups using rich data on household transactions and wholesale costs. Over the observed purchases, high-income households pay 15pp higher retail markups than low-income households. Half of the markup gap is due to differences in markups paid at the same store. Conditional on income, markups paid by a household also increase when a household shops in high-income areas, shops at retail chains with locations in other high-income areas, or purchases products with a high-income customer base. A model in which household search intensity depends on opportunity cost of time can account for these facts. Consistent with the model’s predictions, I document that retail markups across cities rise with both per-capita income and inequality. Through the lens of the model, changes in the income distribution since 1950 account for a 10–14pp rise in retail markups, with 30 percent of the increase since 1980 due to growing income dispersion. This rise in markups consists of within-firm markup increases as well as a reallocation of sales to high-markup firms, which occurs without any change to the nature of firm production or competition.</p>
-  </div>
+    Regulating the price of productivity-enhancing inputs can allow governments to facilitate the diffusion of existing technologies but deter private firms from innovating and introducing superior technologies. This project studies the demand and supply-side consequences of price controls on genetically engineered (GE) cotton seeds in India.
+    Leveraging the differential timing of this policy across states, we show that the government-mandated price reduction increased farmers’ adoption of GE seeds by 20pp and decreased the costs of cultivating cotton by 20\%.
+    Although cotton seed firms did not incur significant losses in the short term, the number of new hybrid varieties introduced by these firms fell abruptly in the aftermath of the policy, leading farmers to use older seeds. 
+    Using newly assembled data from experimental field trials across India, we show that:
+    (i) cotton varieties lose 6\% of their yield yearly;
+    (ii) agronomic yields of new varieties worsen by 30\% in price-controlled states.
+    To quantify the overall welfare impact of the policy, we develop a structural model of demand and supply for seeds.</p>
+
+</div>
+<div class="post-content research-project">
+  <strong>Price Regulation of Agricultural Technology</strong> (joint with Matteo Ruzzante)
+
+    Regulating the price of productivity-enhancing inputs can allow governments to facilitate the diffusion of existing technologies but deter private firms from innovating and introducing superior technologies. This project studies the demand and supply-side consequences of price controls on genetically engineered (GE) cotton seeds in India. Leveraging the differential timing of this policy across states, we show that the government-mandated price reduction increased farmers’ adoption of GE seeds by 20pp and decreased the costs of cultivating cotton by 20%. Although cotton seed firms did not incur significant losses in the short term, the number of new hybrid varieties introduced by these firms fell abruptly in the aftermath of the policy, leading farmers to use older seeds. Using newly assembled data from experimental field trials across India, we show that: (i) cotton varieties lose 6% of their yield yearly; (ii) agronomic yields of new varieties worsen by 30% in price-controlled states. To quantify the overall welfare impact of the policy, we develop a structural model of demand and supply for seeds that allows for endogenous quality.</p>
+
 </div>
