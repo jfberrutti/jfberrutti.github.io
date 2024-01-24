@@ -20,4 +20,4 @@ Hello there! I am Felipe Berrutti, a fourth year PhD candidate in Economics at [
 
 I am interested in empirical industrial organization and applied microeconomics. My work focuses on how market structure and regulation affect firm behavior and consumer welfare in markets for technological products. 
 
-You can contact me via [email](jfberrutti@u.northwestern.edu), or reach me via [LinkedIn](https://www.linkedin.com/in/felipe-berrutti-0bb54832/). 
+You can contact me via [email](jfberrutti@u.northwestern.edu), or reach me via [LinkedIn](https://www.linkedin.com/in/felipe-berrutti-0bb54832). 
