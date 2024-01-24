@@ -147,7 +147,8 @@ blockquote {
 
 .card {
   background-color: var(--global-card-bg-color);
-
+  margin: 0;
+  
   img {
     width: 100%;
   }
