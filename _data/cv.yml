@@ -10,13 +10,13 @@
   type: time_table
   contents:
     - title: PhD in Economics
-      institution: [Northwestern University](https://economics.northwestern.edu)
+      institution: <a href="https://economics.northwestern.edu">Northwestern University]</a>
       year: 2020 - present
     - title: MA in Economics and Finance
-      institution: [LUISS Guido Carli - Einaudi Institute for Economics and Finance](https://www.romemaster.it)
+      institution: <a href="https://www.romemaster.it">LUISS Guido Carli - Einaudi Institute for Economics and Finance</a>
       year: 2018 - 2020
     - title: Licenciatura en Economía
-      institution: [Universidad de la República](https://fcea.udelar.edu.uy/departamentos-academicos/dpto-de-economia.html)
+      institution: <a href="https://fcea.udelar.edu.uy/departamentos-academicos/dpto-de-economia.html">Universidad de la República</a>
       year: 2011 - 2015
 
 - title: Honors and Awards
@@ -24,13 +24,13 @@
   contents:
     - year: 2023
       items:
-        - [Susan Schmidt Bies Prize](https://economics.northwestern.edu/graduate/funding/graduate-student-awards.html), Northwestern University
+        -  <a href="https://economics.northwestern.edu/graduate/funding/graduate-student-awards.html> Susan Schmidt Bies Prize </a>, Northwestern University
     - year: 2020
       items:
-        - [Best Master Thesis](https://www.eief.it/eief/index.php/rome-theses), LUISS Guido Carli - Einaudi Institute for Economics and Finance 
+        - <a href="https://www.eief.it/eief/index.php/rome-theses> Best Master Thesis </a>, LUISS Guido Carli - Einaudi Institute for Economics and Finance 
     - year: 2018 - 2020
       items:
-        - [RoME scholarship](https://www.romemaster.it/scholarships/), Einaudi Institute for Economics and Finance 
+        - <a href="https://www.romemaster.it/scholarships/> RoME scholarship </a>, Einaudi Institute for Economics and Finance 
     - year: 2016 - 2017
       items:
         - Research initiation scholarship, Instituto de Economía
