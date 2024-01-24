@@ -53,6 +53,15 @@ d-article {
   }
 
   // Style taken from code blocks
+
+  details > summary {
+      list-style-type: '+';
+  }
+
+  details[open] > summary {
+      list-style-type: '-';
+  }
+
   details {
     color: var(--global-text-color);
     background-color: var(--global-code-bg-color);
