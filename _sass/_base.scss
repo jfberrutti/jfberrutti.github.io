@@ -433,8 +433,8 @@ blockquote {
       border-color: var(--global-divider-color);
 
       .badge {
-        color: var(--global-card-bg-color) !important;
-        background-color: var(--global-footer-text-color) !important;
+        color: var(--global-text-color) !important;
+        background-color: var(--global-card-bg-color) !important;
       }
     }
   }
