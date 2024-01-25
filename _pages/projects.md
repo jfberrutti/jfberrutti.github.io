@@ -30,7 +30,7 @@ horizontal: false
 <div class="post-content research-project">
   <details>
 	<summary>
-  <strong>Price Regulation of Agricultural Technology</strong>
+  <strong> Price Regulation of Agricultural Technology</strong>
   <p>with Matteo Ruzzante</p> <br> </summary>
 
     <p style="margin-left: 25px;">
@@ -49,7 +49,7 @@ horizontal: false
 <div class="post-content research-project">
   <details>
 	<summary>
-  <strong>Effects of Public Funding on Firm Innovation: Transforming or Reinforcing a Weak Innovation Pattern?</strong>
+  <strong> Effects of Public Funding on Firm Innovation: Transforming or Reinforcing a Weak Innovation Pattern?</strong>
   <p>with <a href="http://www.iecon.ccee.edu.uy/bianchi-carlos/author/54/en/">Carlos Bianchi</a></p>
   <p style='margin-bottom: 0em; margin-top: -1em;'> <em>Economics of Innovation and New Technology</em>, 29(5), 2020 <a href="https://www.tandfonline.com/doi/abs/10.1080/10438599.2019.1636452">[Full text]</a></p></summary> <br> 
 
@@ -65,7 +65,7 @@ horizontal: false
 <div class="post-content research-project">
   <details>
 	<summary>
-  <strong>Place-based Subsidies and Location Decisions: The Case of Uruguay</strong>
+  <strong> Place-based Subsidies and Location Decisions: The Case of Uruguay</strong>
   <p><em>Undergraduate thesis</em> <a href="https://www.proquest.com/scholarly-journals/place-based-subsidies-location-decisions-case/docview/1930794087/se-2">[Full text]</a></p> </summary> <br> 
 
     <p style="margin-left: 25px;">
