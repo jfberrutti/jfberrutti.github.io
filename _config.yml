@@ -10,7 +10,7 @@ email: jfberrutti@u.northwestern.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Felipe Berrutti is a PhD candidate in Economics at Northwestern University.
 footer_text: >
-keywords: economics, academics, phd, northwestern, felipe, berrutti # add your own keywords or leave empty
+keywords: economics, academics, phd, northwestern, felipe, berrutti, felipe berrutti # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
