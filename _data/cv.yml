@@ -1,10 +1,10 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Felipe Berrutti
-    - name: Languages
-      value: English, Italian, Portuguese, Spanish
+    - name: Address
+      value: Office 3436, 2211 Campus Drive, Evanston, IL, 60208
 
 - title: Education
   type: time_table
@@ -71,4 +71,13 @@
     - title: Intern 
       institution: United Nations Development Program, Uruguay
       year: 2013 - 2015
-      
+
+- title: Other
+  type: map
+  contents:
+    - name: Languages
+      value: English, Italian, Portuguese, Spanish
+    - name: Programming Skills
+      value: Julia, Python, R, Stata, MATLAB, QGIS
+    - name: Citizenship
+      value: Uruguayan and Italian
