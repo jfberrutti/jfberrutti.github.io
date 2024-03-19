@@ -66,7 +66,7 @@ horizontal: false
   <details>
 	<summary>
   <strong> Entry Regulation in Retail Markets</strong>
-  <p><em>Undergraduate thesis</em> <a href="https://www.eief.it/eief/images/Master_Thesis_Berrutti_rev.pdf">[Full text]</a></p> </summary> <br> 
+  <p><em>Masters thesis</em> <a href="https://www.eief.it/eief/images/Master_Thesis_Berrutti_rev.pdf">[Full text]</a></p> </summary> <br> 
 
     <p style="margin-left: 25px;">
     This article studies the impact of entry regulation on the market structure of the retail sector. I show that a reform that increased the statutory cap on the number of pharmacies in Italian cities is not sufficient to remove the distortions brought about by entry regulation; the new cap becomes binding two semesters after the reform. I exploit variation in the reform’s intensity to provide suggestive evidence that regulation shielded incumbents from additional competitors. Using a structural model of entry, I find that full liberalization would increase the number of firms by 60% and increase the number of cities with more than one pharmacy by 130%. I assess the model’s predictive accuracy by comparing postreform outcomes with simulated ones to find that it correctly forecasts market structure in half of the cities affected by the reform.
