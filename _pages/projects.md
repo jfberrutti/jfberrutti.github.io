@@ -31,7 +31,7 @@ horizontal: false
   <details>
 	<summary>
   <strong> Price Regulation of Agricultural Technology</strong>
-  <p>with Matteo Ruzzante</p> <br> </summary>
+  <p>with <a href="https://matteo-ruzzante.com">Matteo Ruzzante<</a>/p> <br> </summary>
 
     <p style="margin-left: 25px;">
     Regulating the price of productivity-enhancing inputs can allow governments to facilitate the diffusion of existing technologies but deter private firms from innovating and introducing superior technologies. This project studies the demand and supply-side consequences of price controls on genetically engineered (GE) cotton seeds in India. Leveraging the differential timing of this policy across states, we show that the government-mandated price reduction increased farmers’ adoption of GE seeds by 20pp and decreased the costs of cultivating cotton by 20%. Although cotton seed firms did not incur significant losses in the short term, the number of new hybrid varieties introduced by these firms fell abruptly in the aftermath of the policy, leading farmers to use older seeds. Using newly assembled data from experimental field trials across India, we show that: (i) cotton varieties lose 6% of their yield yearly; (ii) agronomic yields of new varieties worsen by 30% in price-controlled states. To quantify the overall welfare impact of the policy, we develop a structural model of demand and supply for seeds that allows for endogenous quality.
