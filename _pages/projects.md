@@ -82,7 +82,7 @@ horizontal: false
   <details>
 	<summary>
   <strong> Place-based Subsidies and Location Decisions: The Case of Uruguay</strong>
-  <p><em>Undergraduate thesis</em> <a href="https://www.proquest.com/scholarly-journals/place-based-subsidies-location-decisions-case/docview/1930794087/se-2">[Full text]</a></p> </summary> <br> 
+  <p> <em>Undergraduate thesis</em> <a href="https://www.proquest.com/scholarly-journals/place-based-subsidies-location-decisions-case/docview/1930794087/se-2">[Full text]</a> <a href="https://ladiaria.com.uy/politica/articulo/2017/6/los-efectos-de-la-ley-de-promocion-de-vivienda-de-interes-social/">[La Diaria (press coverage, in Spanish)]</a> </p> </summary> <br> 
 
     <p style="margin-left: 25px;">
     This paper combines a spatial discontinuity design with differences-in-differences to evaluate the effects of a program which grants place-based subsidies to residential construction on the location of housing developments in Montevideo, the Uruguayan capital, using administrative municipal data over the period 2007-2015. The results reveal that the policy has a sizeable and statistically significant impact on the location of residential construction. Also, findings indicate that the policy increases the average size of residential projects. The policy's impact on the densification of the city, however, is heterogeneous. Finally, the evidence on spillovers on non-subsidized zones is mixed.
