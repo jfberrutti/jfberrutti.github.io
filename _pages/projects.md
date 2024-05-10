@@ -50,7 +50,7 @@ horizontal: false
   <details>
 	<summary>
   <strong> Effects of Public Funding on Firm Innovation: Transforming or Reinforcing a Weak Innovation Pattern?</strong>
-  <p>with <a href="http://www.iecon.ccee.edu.uy/bianchi-carlos/author/54/en/">Carlos Bianchi</a></p>
+  <p>with <a href="https://iecon.fcea.udelar.edu.uy/es/integrantes/investigadores-consolidados/item/bianchi-carlos.html?category_id=487">Carlos Bianchi</a></p>
   <p style='margin-bottom: 0em; margin-top: -1em;'> <em>Economics of Innovation and New Technology</em>, 29(5), 2020 <a href="https://www.tandfonline.com/doi/abs/10.1080/10438599.2019.1636452">[Full text]</a></p></summary> <br> 
 
     <p style="margin-left: 25px;">
