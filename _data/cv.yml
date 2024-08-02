@@ -22,7 +22,10 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2023
+    - year: 2024
+      items:
+        -  <a href="https://www.tgs.northwestern.edu/funding/fellowships-and-grants/internal-fellowships-grants/graduate-research-grant.html"> Graduate Research Grant</a>, Northwestern University
+    - year: 2024
       items:
         -  <a href="https://bfi.uchicago.edu/the-weiss-fund/apply/travel-and-piloting/"> Weiss Fund Travel and Piloting Grant</a>, University of Chicago
     - year: 2023
