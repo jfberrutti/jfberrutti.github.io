@@ -16,8 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello there! I am Felipe Berrutti, a fifth year PhD candidate in Economics at [Northwestern University](https://economics.northwestern.edu). 
+Hello there! I am Felipe Berrutti. I received my PhD in Economics from [Northwestern University](https://economics.northwestern.edu) in 2024. I work as an Associate at [Analysis Group](https://www.analysisgroup.com) in San Francisco.
 
-I am interested in empirical industrial organization and applied microeconomics. [My work](https://jfberrutti.github.io/projects/) focuses on how market structure and regulation affect firm behavior and consumer welfare in markets for technological products. 
+I am interested in empirical industrial organization and applied microeconomics. [My academic work](https://jfberrutti.github.io/projects/) focuses on how market structure and regulation affect firm behavior and consumer welfare in markets for technological products. 
 
 You can contact me via <a href="mailto:jfberrutti@u.northwestern.edu">email</a>, or reach me via [LinkedIn](https://www.linkedin.com/in/felipe-berrutti-0bb54832). 

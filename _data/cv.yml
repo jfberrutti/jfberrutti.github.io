@@ -3,15 +3,13 @@
   contents:
     - name: Name
       value: Felipe Berrutti
-    - name: Address
-      value: Office 3436, 2211 Campus Drive, Evanston, IL, 60208
 
 - title: Education
   type: time_table
   contents:
     - title: PhD in Economics
       institution: <a href="https://economics.northwestern.edu"> Northwestern University</a>
-      year: 2020 - present
+      year: 2020 - 2024
     - title: MA in Economics and Finance
       institution: <a href="https://www.romemaster.it">LUISS Guido Carli - Einaudi Institute for Economics and Finance</a>
       year: 2018 - 2020
@@ -19,40 +17,18 @@
       institution: <a href="https://fcea.udelar.edu.uy/departamentos-academicos/dpto-de-economia.html">Universidad de la República</a>
       year: 2011 - 2015
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2024
-      items:
-        -  Distinguished Teaching Assistant Award, Northwestern University
-    - year: 2024
-      items:
-        -  <a href="https://www.tgs.northwestern.edu/funding/fellowships-and-grants/internal-fellowships-grants/graduate-research-grant.html"> Graduate Research Grant</a>, Northwestern University
-    - year: 2024
-      items:
-        -  <a href="https://weissfund.uchicago.edu/travel-and-piloting/"> Weiss Fund Travel and Piloting Grant</a>, University of Chicago
-    - year: 2023
-      items:
-        -  <a href="https://economics.northwestern.edu/graduate/funding/graduate-student-awards.html"> Susan Schmidt Bies Prize</a>, Northwestern University
-    - year: 2020
-      items:
-        - <a href="https://www.eief.it/eief/index.php/rome-theses"> Best Master Thesis</a>, LUISS Guido Carli - Einaudi Institute for Economics and Finance 
-    - year: 2018 - 2020
-      items:
-        - <a href="https://www.romemaster.it/scholarships/"> RoME scholarship</a>, Einaudi Institute for Economics and Finance 
-    - year: 2016 - 2017
-      items:
-        - Research initiation scholarship, Instituto de Economía
-
 - title: Experience
   type: time_table
   contents:
+      - title: Associate
+      institution: <a href="https://www.analysisgroup.com"> Analysis Group</a>
+      year: 2025 - present
     - title: Summer Associate
-      institution: Analysis Group
+      institution: <a href="https://www.analysisgroup.com"> Analysis Group</a>
       year: 2024
     - title: Teaching asisstant
       institution: Northwestern University
-      year: 2021 - present
+      year: 2021 - 2024
       description:
         - Senior Honors Thesis Seminar (undergraduate)
         - Introduction to Microeconomics (undergraduate)
@@ -80,6 +56,31 @@
     - title: Intern 
       institution: United Nations Development Program, Uruguay
       year: 2013 - 2015
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        -  Distinguished Teaching Assistant Award, Northwestern University
+    - year: 2024
+      items:
+        -  <a href="https://www.tgs.northwestern.edu/funding/fellowships-and-grants/internal-fellowships-grants/graduate-research-grant.html"> Graduate Research Grant</a>, Northwestern University
+    - year: 2024
+      items:
+        -  <a href="https://weissfund.uchicago.edu/travel-and-piloting/"> Weiss Fund Travel and Piloting Grant</a>, University of Chicago
+    - year: 2023
+      items:
+        -  <a href="https://economics.northwestern.edu/graduate/funding/graduate-student-awards.html"> Susan Schmidt Bies Prize</a>, Northwestern University
+    - year: 2020
+      items:
+        - <a href="https://www.eief.it/eief/index.php/rome-theses"> Best Master Thesis</a>, LUISS Guido Carli - Einaudi Institute for Economics and Finance 
+    - year: 2018 - 2020
+      items:
+        - <a href="https://www.romemaster.it/scholarships/"> RoME scholarship</a>, Einaudi Institute for Economics and Finance 
+    - year: 2016 - 2017
+      items:
+        - Research initiation scholarship, Instituto de Economía
 
 - title: Other
   type: map
